@@ -490,7 +490,7 @@
 .top-btn::after{
     content: "";
     /* 가상요소 만들때 비워두더라도 무조건 content 작성해주기 */
-    background: url(/image/Lemaire_topbtn-i-black.svg) no-repeat;
+    background: url(./image/Lemaire_topbtn-i-black.svg) no-repeat;
     background-size: cover;
     width: 70px;
     height: 70px;
